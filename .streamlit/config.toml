@@ -1,0 +1,12 @@
+# --- .streamlit/config.toml ---
+[theme]
+# Primary accent color for buttons, links, etc. (A vibrant green/teal)
+primaryColor="#4ECDC4" 
+# Background color for the main page
+backgroundColor="#121212" 
+# Background color for the sidebar and component containers
+secondaryBackgroundColor="#1F1B24" 
+# Font color for text
+textColor="#FFFFFF" 
+# Font to use
+font="sans serif"
